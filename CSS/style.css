@@ -5,9 +5,7 @@
     padding: 0;
 }
 
-nav{
 
-}
 
 .Navigation{
     list-style: none;
@@ -36,7 +34,7 @@ ul{
     color: #e59500
 }
 
-body > nav {
+nav {
     position: -webkit-sticky;
     position: sticky;
     top: 30px;
